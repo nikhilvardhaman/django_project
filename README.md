@@ -1,2 +1,2 @@
-# django_project
-learning drf
+# Drinks_django
+ Learning Django rest framework
